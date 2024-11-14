@@ -34,8 +34,6 @@ To run this project locally:
 ## Screenshots
 ![Pomodoro Timer Screenshot](screenshot.png)
 
-`Not updated`
-
 ## Project Structure
 - **index.html**: The main HTML file for the structure of the app.
 - **style.css**: Contains CSS for styling and layout.
