@@ -1,6 +1,3 @@
-Certainly! Here’s the README with your email as the contact information:
-
----
 
 # Pomodoro Timer ⏳
 
@@ -37,7 +34,7 @@ To run this project locally:
 ## Screenshots
 ![Pomodoro Timer Screenshot](screenshot.png)
 
-*(Add a screenshot of your timer in action here for better visualization)*
+`Not updated`
 
 ## Project Structure
 - **index.html**: The main HTML file for the structure of the app.
@@ -57,8 +54,7 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 This project is licensed under the **Eclipse Public License - v 2.0**. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-For any questions or suggestions, please feel free to reach out via email at **your.email@example.com**.
+For any questions or suggestions, please feel free to reach out via email at **debajyoti.475@gmail.com**.
 
 ---
 
-Replace `your.email@example.com` with your actual email address, and it will be ready to go! Let me know if there’s anything more you’d like to add.
